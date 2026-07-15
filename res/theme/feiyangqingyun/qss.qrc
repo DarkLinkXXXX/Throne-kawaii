@@ -72,5 +72,6 @@
         <file>qss/lightblue/radiobutton_checked.png</file>
         <file>qss/lightblue/radiobutton_unchecked_disable.png</file>
         <file>qss/lightblue/radiobutton_unchecked.png</file>
+        <file>qss/Kawaii.qss</file>
     </qresource>
 </RCC>
